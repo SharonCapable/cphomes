@@ -28,7 +28,6 @@ output.txt
 
 # OS
 Thumbs.db
-.env.example
 
 # Optional - Prisma
 prisma/dev.db
